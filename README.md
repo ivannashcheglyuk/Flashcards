@@ -42,7 +42,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![bandicam2025-06-1610-22-39-446-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/22908415-6520-4a5f-ba72-a1a144486bc3)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
